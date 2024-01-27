@@ -8,6 +8,6 @@ Currently, the portfolio simply takes you to the project being referenced but in
 > <br><br>
 > Another is that I take you to a new page where I give you a more detailed breakdown of the project. The latter is more tedious but the former is more technically challenging given the current structure of the code.
 
-#### The website is live at http://projects.gyryk.com/
+### The website is live at http://projects.gyryk.com/
 
 #### In the future, you can expect the tools used and/or information about the development progress on this website.
